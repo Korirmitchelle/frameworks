@@ -2,6 +2,7 @@
     background-image: url(../images/Audrina-Patridge.jpg), url(../images/fashion1.jpeg);
     background-position: left, right;
     background-size: contain;
+    background-repeat: no-repeat;
     opacity: 0.6;
     height: 700px;
     overflow: hidden;
@@ -10,7 +11,15 @@
     height: px;
     text-align: center;
 }
+footer {
+    background-color: #333;
+    color: #FFFF99;
+    height: 60px;
+    padding: 2%;
+}
 .true {
     -webkit animation-duration: 3s;
     animation-duration: 3s;
+    color: #FFFF0A;
+    font-weight: 600;
 }
