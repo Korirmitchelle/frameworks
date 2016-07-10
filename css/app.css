@@ -11,6 +11,13 @@
     height: px;
     text-align: center;
 }
+.start {
+    background-color: black;
+    color: #FFA500;
+    font-size: 20px;
+    border-radius: 111px;
+    float: right;
+}
 footer {
     background-color: #333;
     color: #FFFF99;
